@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<userOverrides>
+  <override>
+    <path>D:\IAR7.5\arm\inc\c\math.h</path>
+    <encoding>GB2312</encoding>
+  </override>
+  <override>
+    <path>D:\IAR7.5\arm\inc\c\stdint.h</path>
+    <encoding>GB2312</encoding>
+  </override>
+  <override>
+    <path>D:\IAR7.5\arm\inc\c\stdio.h</path>
+    <encoding>GB2312</encoding>
+  </override>
+  <override>
+    <path>D:\IAR7.5\arm\inc\c\time.h</path>
+    <encoding>GB2312</encoding>
+  </override>
+  <override>
+    <path>D:\IAR7.5\arm\inc\c\yvals.h</path>
+    <encoding>GB2312</encoding>
+  </override>
+  <override>
+    <path>D:\&#x5341;&#x4e00;&#x5C4A;\&#x7A0B;&#x5e8F;\My boy\src\drivers\rtc\rtc.c</path>
+    <encoding>GB2312</encoding>
+  </override>
+  <override>
+    <path>D:\&#x5341;&#x4e00;&#x5C4A;\&#x7A0B;&#x5e8F;\My boy_A\src\LIB\CMSIS\arm_common_tables.h</path>
+    <encoding>GB2312</encoding>
+  </override>
+  <override>
+    <path>D:\&#x5341;&#x4e00;&#x5C4A;\&#x7A0B;&#x5e8F;\My boy_A\src\LIB\CMSIS\arm_math.h</path>
+    <encoding>GB2312</encoding>
+  </override>
+  <override>
+    <path>D:\&#x5341;&#x4e00;&#x5C4A;\&#x7A0B;&#x5e8F;\My boy_A\src\LIB\CMSIS\core_cm0.h</path>
+    <encoding>GB2312</encoding>
+  </override>
+  <override>
+    <path>D:\&#x5341;&#x4e00;&#x5C4A;\&#x7A0B;&#x5e8F;\My boy_A\src\LIB\CMSIS\core_cm3.h</path>
+    <encoding>GB2312</encoding>
+  </override>
+  <override>
+    <path>D:\&#x5341;&#x4e00;&#x5C4A;\&#x7A0B;&#x5e8F;\My boy_A\src\LIB\CMSIS\core_cm4.h</path>
+    <encoding>GB2312</encoding>
+  </override>
+  <override>
+    <path>D:\&#x5341;&#x4e00;&#x5C4A;\&#x7A0B;&#x5e8F;\My boy_A\src\LIB\CMSIS\core_cm4_simd.h</path>
+    <encoding>GB2312</encoding>
+  </override>
+  <override>
+    <path>D:\&#x5341;&#x4e00;&#x5C4A;\&#x7A0B;&#x5e8F;\My boy_A\src\LIB\CMSIS\core_cmFunc.h</path>
+    <encoding>GB2312</encoding>
+  </override>
+  <override>
+    <path>D:\&#x5341;&#x4e00;&#x5C4A;\&#x7A0B;&#x5e8F;\My boy_A\src\LIB\CMSIS\core_cmInstr.h</path>
+    <encoding>GB2312</encoding>
+  </override>
+  <override>
+    <path>D:\&#x5341;&#x4e00;&#x5C4A;\&#x7A0B;&#x5e8F;\My boy_A\src\LIB\FatFs\ff.c</path>
+    <encoding>GB2312</encoding>
+  </override>
+  <override>
+    <path>D:\&#x5341;&#x4e00;&#x5C4A;\&#x7A0B;&#x5e8F;\My boy_A\src\common\stdlib.h</path>
+    <encoding>GB2312</encoding>
+  </override>
+  <override>
+    <path>D:\&#x5341;&#x4e00;&#x5C4A;\&#x7A0B;&#x5e8F;\My boy_A\src\drivers\flash_cfg\flash_cfg.c</path>
+    <encoding>GB2312</encoding>
+  </override>
+  <override>
+    <path>D:\&#x5341;&#x4e00;&#x5C4A;\&#x4Fe1;&#x6807;&#x7A0B;&#x5e8F;\My boy_A &#x534e;&#x5317;&#x8D5B;\src\app\I2C.c</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>D:\&#x5341;&#x4e00;&#x5C4A;\&#x4Fe1;&#x6807;&#x7A0B;&#x5e8F;\My boy_A &#x534e;&#x5317;&#x8D5B;\src\app\I2C.h</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>D:\&#x5341;&#x4e00;&#x5C4A;\&#x4Fe1;&#x6807;&#x7A0B;&#x5e8F;\My boy_A &#x534e;&#x5317;&#x8D5B;\src\app\Oled.c</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>D:\&#x5341;&#x4e00;&#x5C4A;\&#x4Fe1;&#x6807;&#x7A0B;&#x5e8F;\My boy_A &#x534e;&#x5317;&#x8D5B;\src\app\Oled.h</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>D:\&#x5341;&#x4e00;&#x5C4A;\&#x4Fe1;&#x6807;&#x7A0B;&#x5e8F;\My boy_A &#x534e;&#x5317;&#x8D5B;\src\app\TFT.c</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>D:\&#x5341;&#x4e00;&#x5C4A;\&#x4Fe1;&#x6807;&#x7A0B;&#x5e8F;\My boy_A &#x534e;&#x5317;&#x8D5B;\src\app\TFT.h</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>D:\&#x5341;&#x4e00;&#x5C4A;\&#x4Fe1;&#x6807;&#x7A0B;&#x5e8F;\My boy_A &#x534e;&#x5317;&#x8D5B;\src\app\bootloader.c</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>D:\&#x5341;&#x4e00;&#x5C4A;\&#x4Fe1;&#x6807;&#x7A0B;&#x5e8F;\My boy_A &#x534e;&#x5317;&#x8D5B;\src\app\bootloader.h</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>D:\&#x5341;&#x4e00;&#x5C4A;\&#x4Fe1;&#x6807;&#x7A0B;&#x5e8F;\My boy_A &#x534e;&#x5317;&#x8D5B;\src\app\ctrl.c</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>D:\&#x5341;&#x4e00;&#x5C4A;\&#x4Fe1;&#x6807;&#x7A0B;&#x5e8F;\My boy_A &#x534e;&#x5317;&#x8D5B;\src\app\ctrl.h</path>
+    <encoding>Win-1252</encoding>
+  </override>
+  <override>
+    <path>D:\&#x5341;&#x4e00;&#x5C4A;\&#x4Fe1;&#x6807;&#x7A0B;&#x5e8F;\My boy_A &#x534e;&#x5317;&#x8D5B;\src\app\dac.h</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>D:\&#x5341;&#x4e00;&#x5C4A;\&#x4Fe1;&#x6807;&#x7A0B;&#x5e8F;\My boy_A &#x534e;&#x5317;&#x8D5B;\src\app\declare.h</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>D:\&#x5341;&#x4e00;&#x5C4A;\&#x4Fe1;&#x6807;&#x7A0B;&#x5e8F;\My boy_A &#x534e;&#x5317;&#x8D5B;\src\app\fun.c</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>D:\&#x5341;&#x4e00;&#x5C4A;\&#x4Fe1;&#x6807;&#x7A0B;&#x5e8F;\My boy_A &#x534e;&#x5317;&#x8D5B;\src\app\fun.h</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>D:\&#x5341;&#x4e00;&#x5C4A;\&#x4Fe1;&#x6807;&#x7A0B;&#x5e8F;\My boy_A &#x534e;&#x5317;&#x8D5B;\src\app\fuzzy.c</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>D:\&#x5341;&#x4e00;&#x5C4A;\&#x4Fe1;&#x6807;&#x7A0B;&#x5e8F;\My boy_A &#x534e;&#x5317;&#x8D5B;\src\app\fuzzy.h</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>D:\&#x5341;&#x4e00;&#x5C4A;\&#x4Fe1;&#x6807;&#x7A0B;&#x5e8F;\My boy_A &#x534e;&#x5317;&#x8D5B;\src\app\getinfor.c</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>D:\&#x5341;&#x4e00;&#x5C4A;\&#x4Fe1;&#x6807;&#x7A0B;&#x5e8F;\My boy_A &#x534e;&#x5317;&#x8D5B;\src\app\getinfor.h</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>D:\&#x5341;&#x4e00;&#x5C4A;\&#x4Fe1;&#x6807;&#x7A0B;&#x5e8F;\My boy_A &#x534e;&#x5317;&#x8D5B;\src\app\init.c</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>D:\&#x5341;&#x4e00;&#x5C4A;\&#x4Fe1;&#x6807;&#x7A0B;&#x5e8F;\My boy_A &#x534e;&#x5317;&#x8D5B;\src\app\isr.c</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>D:\&#x5341;&#x4e00;&#x5C4A;\&#x4Fe1;&#x6807;&#x7A0B;&#x5e8F;\My boy_A &#x534e;&#x5317;&#x8D5B;\src\app\isr.h</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>D:\&#x5341;&#x4e00;&#x5C4A;\&#x4Fe1;&#x6807;&#x7A0B;&#x5e8F;\My boy_A &#x534e;&#x5317;&#x8D5B;\src\app\keyboard.c</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>D:\&#x5341;&#x4e00;&#x5C4A;\&#x4Fe1;&#x6807;&#x7A0B;&#x5e8F;\My boy_A &#x534e;&#x5317;&#x8D5B;\src\app\keyboard.h</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>D:\&#x5341;&#x4e00;&#x5C4A;\&#x4Fe1;&#x6807;&#x7A0B;&#x5e8F;\My boy_A &#x534e;&#x5317;&#x8D5B;\src\app\main.c</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>D:\&#x5341;&#x4e00;&#x5C4A;\&#x4Fe1;&#x6807;&#x7A0B;&#x5e8F;\My boy_A &#x5C0F;&#x84DD;(Black)\src\LIB\FatFs\ff.c</path>
+    <encoding>GB2312</encoding>
+  </override>
+  <override>
+    <path>D:\&#x5341;&#x4e00;&#x5C4A;\&#x4Fe1;&#x6807;&#x7A0B;&#x5e8F;\My boy_A &#x5C0F;&#x84DD;(Black)\src\app\TFT.h</path>
+    <encoding>GB2312</encoding>
+  </override>
+  <override>
+    <path>D:\&#x5341;&#x4e00;&#x5C4A;\&#x4Fe1;&#x6807;&#x7A0B;&#x5e8F;\My boy_A &#x5C0F;&#x84DD;\src\LIB\FatFs\ff.c</path>
+    <encoding>GB2312</encoding>
+  </override>
+  <override>
+    <path>D:\&#x5341;&#x4e00;&#x5C4A;\&#x4Fe1;&#x6807;&#x7A0B;&#x5e8F;\My boy_A\src\LIB\FatFs\ff.c</path>
+    <encoding>GB2312</encoding>
+  </override>
+  <override>
+    <path>D:\&#x5341;&#x4e00;&#x5C4A;\&#x4Fe1;&#x6807;&#x7A0B;&#x5e8F;\My boy_A\src\LIB\FatFs\integer.h</path>
+    <encoding>GB2312</encoding>
+  </override>
+  <override>
+    <path>D:\&#x5341;&#x4e00;&#x5C4A;\&#x4Fe1;&#x6807;&#x7A0B;&#x5e8F;\My boy_A\src\app\font.h</path>
+    <encoding>GB2312</encoding>
+  </override>
+  <override>
+    <path>D:\&#x5341;&#x4e00;&#x5C4A;\&#x4Fe1;&#x6807;&#x7A0B;&#x5e8F;\My boy_B Mr.Blue\src\app\TFT.h</path>
+    <encoding>GB2312</encoding>
+  </override>
+</userOverrides>
+
+

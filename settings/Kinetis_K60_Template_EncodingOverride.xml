@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<userOverrides>
+  <override>
+    <path>D:\&#x5341;&#x4e00;&#x5C4A;\&#x7A0B;&#x5e8F;\My boy (Signal)\src\app\I2C.c</path>
+    <encoding>GB2312</encoding>
+  </override>
+  <override>
+    <path>D:\&#x5341;&#x4e00;&#x5C4A;\&#x7A0B;&#x5e8F;\My boy (Signal)\src\app\I2C.h</path>
+    <encoding>GB2312</encoding>
+  </override>
+  <override>
+    <path>D:\&#x5341;&#x4e00;&#x5C4A;\&#x7A0B;&#x5e8F;\My boy (Signal)\src\app\font.h</path>
+    <encoding>GB2312</encoding>
+  </override>
+  <override>
+    <path>D:\&#x5341;&#x4e00;&#x5C4A;\&#x7A0B;&#x5e8F;\My boy (Signal)\src\app\fuzzy.c</path>
+    <encoding>GB2312</encoding>
+  </override>
+  <override>
+    <path>D:\&#x5341;&#x4e00;&#x5C4A;\&#x7A0B;&#x5e8F;\My boy (Signal)\src\app\fuzzy.h</path>
+    <encoding>GB2312</encoding>
+  </override>
+  <override>
+    <path>D:\&#x5341;&#x4e00;&#x5C4A;\&#x7A0B;&#x5e8F;\My boy (Signal)\src\app\getinfor.c</path>
+    <encoding>GB2312</encoding>
+  </override>
+  <override>
+    <path>D:\&#x5341;&#x4e00;&#x5C4A;\&#x7A0B;&#x5e8F;\My boy (Signal)\src\app\main.c</path>
+    <encoding>GB2312</encoding>
+  </override>
+  <override>
+    <path>F:\&#x65B0;&#x7684;&#x8D77;&#x70B9;\&#x4F53;&#x64CD;&#x623F;\&#x5e74;&#x540e;\&#x5e74;&#x540e; 2.8 &#x4Fee;&#x6539;&#x5F13;&#x5F62;&#x6761;&#x4eF6; &#x4eBA;&#x5B57;&#x8FDB;&#x53BB;&#x62D0; &#x6162;&#x901F;OK - &#x653e;&#x4F4e;&#x955C;&#x5934;   zhangshi\&#x5e74;&#x540e; 2.7 &#x4Fee;&#x6539;&#x5F13;&#x5F62;&#x6761;&#x4eF6; &#x4eBA;&#x5B57;&#x8FDB;&#x53BB;&#x62D0; &#x6162;&#x901F;OK - &#x653e;&#x4F4e;&#x955C;&#x5934;\src\app\fun.c</path>
+    <encoding>GB2312</encoding>
+  </override>
+</userOverrides>
+
+
